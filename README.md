@@ -56,7 +56,6 @@ jupyter notebook
 Open the file Accessing Mathematics Learning in Higher Education.ipynb and run all cells.
 
 # 📁 Project Structure
-/
 
 ├── dataset.csv                                # Raw dataset of student responses  
 ├── Accessing Mathematics Learning in Higher Education.ipynb   # Jupyter Notebook with analysis  
