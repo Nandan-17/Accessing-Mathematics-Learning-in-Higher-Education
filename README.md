@@ -39,16 +39,19 @@ Subtopic-level insights (e.g., Vector Spaces being most frequent)
 
 # 🚀 Getting Started
 **Prerequisites**
+
 Make sure you have Python 3.x installed.
 Install the required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 Running the Notebook
 
 **Clone the repository:**
+
 git clone https://github.com/your-username/mathematics-learning-analysis.git
 cd mathematics-learning-analysis
 
 **Start Jupyter Notebook:**
+
 jupyter notebook
 Open the file Accessing Mathematics Learning in Higher Education.ipynb and run all cells.
 
@@ -57,7 +60,7 @@ Open the file Accessing Mathematics Learning in Higher Education.ipynb and run a
 ├── dataset.csv                                # Raw dataset of student responses  
 ├── Accessing Mathematics Learning in Higher Education.ipynb   # Jupyter Notebook with analysis  
 ├── README.md                                  # Project documentation  
-└── requirements.txt                           # Python dependencies (optional)  
+└── requirements.txt                           # Python dependencies (optional)
 
 # ⚠️ Disclaimer
 This project is for educational and research purposes only. The dataset represents anonymized student responses and should not be used to make assumptions about individuals. The analysis is intended to explore patterns in mathematics learning, not to provide deterministic conclusions.
