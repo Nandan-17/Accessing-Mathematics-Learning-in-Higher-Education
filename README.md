@@ -66,4 +66,4 @@ Open the file Accessing Mathematics Learning in Higher Education.ipynb and run a
 This project is for educational and research purposes only. The dataset represents anonymized student responses and should not be used to make assumptions about individuals. The analysis is intended to explore patterns in mathematics learning, not to provide deterministic conclusions.
 
 # 📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
