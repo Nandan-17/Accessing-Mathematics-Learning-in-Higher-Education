@@ -56,12 +56,13 @@ jupyter notebook
 Open the file Accessing Mathematics Learning in Higher Education.ipynb and run all cells.
 
 # 📁 Project Structure
-
+```bash
+/
 ├── dataset.csv                                # Raw dataset of student responses  
 ├── Accessing Mathematics Learning in Higher Education.ipynb   # Jupyter Notebook with analysis  
 ├── README.md                                  # Project documentation  
 └── requirements.txt                           # Python dependencies (optional)
-
+```
 # ⚠️ Disclaimer
 This project is for educational and research purposes only. The dataset represents anonymized student responses and should not be used to make assumptions about individuals. The analysis is intended to explore patterns in mathematics learning, not to provide deterministic conclusions.
 
