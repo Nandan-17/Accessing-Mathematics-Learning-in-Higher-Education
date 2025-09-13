@@ -54,10 +54,10 @@ Clone the repository:
 Copy code
 ```bash
 git clone https://github.com/your-username/mathematics-learning-analysis.git
-```
 cd mathematics-learning-analysis
+```
 Start Jupyter Notebook:
-
+bash
 Copy code
 jupyter notebook
 Open the file Accessing Mathematics Learning in Higher Education.ipynb and run all cells.
