@@ -1,4 +1,4 @@
-# 🎓 Accessing Mathematics Learning in Higher Education
+# Accessing Mathematics Learning in Higher Education
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -9,7 +9,7 @@ Visit the project notebook for full analysis: [Notebook Link]
 
 An analytical study of student responses to mathematics questions in higher education. The project uses a dataset of nearly ten thousand responses across multiple countries, topics, and difficulty levels. The analysis provides insights into student performance, challenging concepts, and potential improvements in mathematics education.
 
-# 🌟 Overview
+# Overview
 This project explores how students in different countries perform in higher education mathematics.  
 The dataset includes student demographics, question attributes (level, topic, subtopic), and answer correctness.  
 
@@ -21,7 +21,7 @@ The notebook walks through the process of:
 
 The goal is to understand learning accessibility in mathematics and provide a foundation for future predictive models in education research.
 
-# ✨ Key Features
+# Key Features
 - Comprehensive dataset of 9546 student responses across 8 countries  
 - Analysis of student performance based on:  
   - Country of origin  
@@ -31,7 +31,7 @@ The goal is to understand learning accessibility in mathematics and provide a fo
 - Identification of the most challenging mathematical concepts  
 - Research-oriented structure that can be extended to machine learning tasks  
 
-# 💻 Technology Stack
+# Technology Stack
 | Technology        | Description                           |
 |-------------------|---------------------------------------|
 | Python            | Core programming language for analysis |
@@ -41,13 +41,13 @@ The goal is to understand learning accessibility in mathematics and provide a fo
 | Scikit-learn      | Optional machine learning tasks       |
 | Jupyter Notebook  | Interactive analysis environment      |
 
-# 📸 Sample Outputs
+# Sample Outputs
 - Distribution of students by country  
 - Correct vs incorrect answer ratios  
 - Performance comparison across topics like Linear Algebra, Statistics, etc.  
 - Subtopic-level insights (e.g., Vector Spaces being most frequent)  
 
-# 🚀 Getting Started
+# Getting Started
 **Prerequisites**  
 
 Make sure you have Python 3.x installed.  
@@ -75,11 +75,3 @@ Copy code
 ├── README.md                                  # Project documentation  
 └── requirements.txt                           # Python dependencies (optional)
 ```
-
-# ⚠️ Disclaimer
-This project is for educational and research purposes only.
-The dataset represents anonymized student responses and should not be used to make assumptions about individuals.
-The analysis is intended to explore patterns in mathematics learning, not to provide deterministic conclusions.
-
-# 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
